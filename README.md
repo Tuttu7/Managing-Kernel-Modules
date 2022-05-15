@@ -112,13 +112,3 @@ This option causes modprobe to remove rather than insert a module
 
 
 
--v --verbose
-
-Print messages about what the program is doing. Usually modprobe only prints messages if something goes wrong.
-	
--r --remove
-This option causes modprobe to remove rather than insert a module
-
-
- -p, --parameters 
-	      Display the typed parameters that a module may support.
