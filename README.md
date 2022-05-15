@@ -80,7 +80,7 @@ modprobe -v st buffer_kbs=64
 insmod /lib/modules/5.10.109-104.500.amzn2.x86_64/kernel/drivers/scsi/st.ko buffer_kbs=64
 ```
 
-#### To make changes to the values permanent while loading the Module
+#### To make the changes to the values permanent while loading the Module
 
 ```
 cd /etc/modeprobe.d/
